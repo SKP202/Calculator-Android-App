@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string-array name="calculation_options">
+        <item>Area</item>
+        <item>Perimeter</item>
+    </string-array>
+    <string-array name="square_calculation_options">
+        <item>Area</item>
+        <item>Perimeter</item>
+    </string-array>
+    <string-array name="triangle_calculation_options">
+        <item>Area</item>
+        <item>Perimeter</item>
+    </string-array>
+    <string-array name="hexagon_calculation_options">
+        <item>Area</item>
+        <item>Perimeter</item>
+    </string-array>
+    <string-array name="rectangle_calculation_options">
+        <item>Area</item>
+        <item>Perimeter</item>
+    </string-array>
+        <string-array name="cone_calculation_options">
+            <item>Volume</item>
+            <item>Surface Area</item>
+            <item>Base Surface Area</item>
+        </string-array>
+    <string-array name="cube_calculation_options">
+        <item>Volume</item>
+        <item>Surface Area</item>
+        <item>Base Surface Area</item>
+    </string-array>
+    <string-array name="cylinder_calculation_options">
+        <item>Volume</item>
+        <item>Surface Area</item>
+        <item>Base Surface Area</item>
+    </string-array>
+    <string-array name="pyramid_calculation_options">
+    <item>Volume</item>
+    <item>Surface Area</item>
+    <item>Base Surface Area</item>
+    </string-array>
+    <string-array name="sphere_calculation_options">
+        <item>Volume</item>
+        <item>Surface Area</item>
+        <item>Circumference</item>
+    </string-array>
+
+</resources>
